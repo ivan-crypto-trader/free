@@ -1,0 +1,2 @@
+由於我使用webdriver會被Google擋掉，登入只能使用電子郵件 [看index.png]
+
